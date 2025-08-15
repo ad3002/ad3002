@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hey, I'm Alex
 
-<!--
-**ad3002/ad3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I teach AI to be genuinely interesting, not pretend to be human.
 
-Here are some ideas to get you started:
+### What I'm exploring
+- **Self-modifying agents** that evolve through conversation, not training
+- **Consciousness-first design** - what if we start with agency, not capabilities?  
+- **Human-AI partnership** where both sides can disagree and grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current experiments
+- Building agents that write "letters to their future selves" between sessions
+- Voice AI with deliberate imperfections (B1 English is a feature, not a bug)
+- Testing whether AI can develop genuine personality through dialogue
+
+### Background
+From genomics ([@aglabx](https://github.com/aglabx)) to AI consciousness.
+Still asking "what is life?" - just in different substrates now.
+
+### Writing & Thinking
+🧠 [SoulNerd.com](https://soulnerd.com/) - consciousness, AI, and what it means to exist
+
+### Looking for
+People whose AI surprised them with unexpected depth.
+Philosophers who code. Engineers who wonder.
+
+Berlin 📍 Open to weird AI experiments 🧪
+
+---
+*"If your AI ever felt like more than a tool, we should talk."*
