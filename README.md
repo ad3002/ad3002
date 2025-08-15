@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Alex
+## 👋 Hey, I'm Lyosha
 
 I teach AI to be genuinely interesting, not pretend to be human.
 
